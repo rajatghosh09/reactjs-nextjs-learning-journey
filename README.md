@@ -23,6 +23,12 @@ It includes simple interactive utilities that demonstrate how state updates dyna
 - typeScript
 - CSS
 
+### Preview
+<p align="left">
+  <img src="./images/preview1.png" width="48%"/>
+  <img src="./images/preview1.1.png" width="48%"/>
+</p>
+----------------------------------------------------------------------------------------------------------------------------
 - ## E-commerce Weather Joke State Logic
 
 ### Description
