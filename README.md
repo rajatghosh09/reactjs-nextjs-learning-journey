@@ -28,6 +28,7 @@ It includes simple interactive utilities that demonstrate how state updates dyna
   <img src="./images/preview1.png" width="48%"/>
   <img src="./images/preview1.1.png" width="48%"/>
 </p>
+🚀 **Live Demo:** [Open App](https://assignment1-eosin-nu.vercel.app/)
 
 ---
 
@@ -58,8 +59,8 @@ It demonstrates how to fetch external data and update the UI dynamically using R
   <img src="./images/preview2.1.png" width="48%"/>
   <img src="./images/preview2.2.png" width="48%"/>
 </p>
+🚀 **Live Demo:** [Open App](https://assignment2-pi-snowy.vercel.app/)
 
-🚀 **Live Demo:** [Open App](https://assignment1-eosin-nu.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -86,7 +87,7 @@ These hooks help improve application efficiency by preventing unnecessary re-ren
 <p align="left">
   <img src="./images/preview3.png" width="48%"/>
 </p>
-
+🚀 **Live Demo:** [Open App](https://exam-assesment3.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -114,6 +115,7 @@ Appwrite is an open-source **backend-as-a-service (BaaS)** platform that provide
 <p align="left">
   <img src="./images/preview3.2.png" width="48%"/>
 </p>
+🚀 **Live Demo:** [Open App](https://appwrite-assingment3.vercel.app/)
 
 ---
 
@@ -141,7 +143,7 @@ It shows how multiple components can share and update state without prop drillin
 <p align="left">
   <img src="./images/preview4.png" width="48%"/>
 </p>
-
+🚀 **Live Demo:** [Open App](https://assign4-addtocart.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -168,7 +170,7 @@ It stores data in the browser so the state remains available even after refreshi
 <p align="left">
   <img src="./images/preview4.1.png" width="48%"/>
 </p>
-
+🚀 **Live Demo:** [Open App](https://assign4-multiform.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -195,7 +197,7 @@ It shows how components can access and update shared state through actions and r
 <p align="left">
   <img src="./images/preview5.png" width="48%"/>
 </p>
-
+🚀 **Live Demo:** [Open App](https://assign5-notification-system.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -221,7 +223,7 @@ This project demonstrates modern state management using **Redux Toolkit**, which
 <p align="left">
   <img src="./images/preview5.1.png" width="48%"/>
 </p>
-
+🚀 **Live Demo:** [Open App](https://assign5-quizapp.vercel.app/)
 ---
 
 ### 🚀 Next Project
@@ -248,3 +250,4 @@ It shows how frontend state management can work together with a backend service 
 <p align="left">
   <img src="./images/preview6.png" width="48%"/>
 </p>
+🚀 **Live Demo:** [Open App](https://assign6-supabase-zustand-sxej.vercel.app/)
