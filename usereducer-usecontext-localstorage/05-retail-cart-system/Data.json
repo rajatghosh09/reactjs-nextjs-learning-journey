@@ -1,0 +1,83 @@
+{
+    "menu":[
+  {
+    "id": 1,
+    "name": "Fried Chicken",
+    "rating": 3,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 250,
+    "img": "../assets/Menuimg/image1.png",
+    "category": "Indian"
+  },
+  {
+    "id": 2,
+    "name": "Kolkata Style Roll",
+    "rating": 4,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 99,
+    "img": "../assets/Menuimg/image2.png",
+    "category": "Chinese"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Burger",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 175,
+    "img": "../assets/Menuimg/image3.png",
+    "category": "Mexican"
+  },
+  {
+    "id": 4,
+    "name": "Delhi Style Chole",
+    "rating": 2,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 156,
+    "img": "../assets/Menuimg/image4.png",
+    "category": "Indian"
+  },
+  {
+    "id": 5,
+    "name": "Butterscotch Cake",
+    "rating": 1,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 159,
+    "img": "../assets/Menuimg/image5.png",
+    "category": "Bengali"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Ice cream",
+    "rating": 3,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 135,
+    "img": "../assets/Menuimg/image6.png",
+    "category": "Arabian"
+  },
+  {
+    "id": 7,
+    "name": "Hyderabadi Biryaniam",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 450,
+    "img": "../assets/Menuimg/image7.png",
+    "category": "Chinese"
+  },
+  {
+    "id": 8,
+    "name": "Masala Dosam",
+    "rating": 5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 199,
+    "img": "../assets/Menuimg/image8.png",
+    "category": "Japanese"
+  },
+  {
+    "id": 9,
+    "name": "Masala Dosam",
+    "rating": 4,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 85,
+    "img": "../assets/Menuimg/image9.png",
+    "category": "Bengali"
+  }
+    ]
+}
