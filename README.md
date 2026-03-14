@@ -57,7 +57,11 @@ It demonstrates how to fetch external data and update the UI dynamically using R
   <img src="./images/preview1.png" width="48%"/>
   <img src="./images/preview1.1.png" width="48%"/>
 </p>
+---
 
+### 🚀 Next Project
+
+---
 ## React Hooks Performance Demo
 
 ### Description
@@ -77,7 +81,11 @@ These hooks help improve application efficiency by preventing unnecessary re-ren
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
+
+---
 ## Appwrite Integration Demo
 
 ### Description
@@ -98,7 +106,11 @@ Appwrite is an open-source **backend-as-a-service (BaaS)** platform that provide
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
+
+---
 ## Global State Management with useReducer & useContext
 
 ### Description
@@ -118,8 +130,11 @@ It shows how multiple components can share and update state without prop drillin
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
 
+---
 ## Persistent State with LocalStorage
 
 ### Description
@@ -139,8 +154,11 @@ It stores data in the browser so the state remains available even after refreshi
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
 
+---
 ## Redux State Management
 
 ### Description
@@ -160,8 +178,11 @@ It shows how components can access and update shared state through actions and r
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
 
+---
 ## Redux Toolkit Demo
 
 ### Description
@@ -180,7 +201,11 @@ This project demonstrates modern state management using **Redux Toolkit**, which
 
 ### Preview
 ![Project Preview](./preview.png)
+---
 
+### 🚀 Next Project
+
+---
 ## Next.js Supabase Realtime App
 
 ### Description
