@@ -57,6 +57,7 @@ It demonstrates how to fetch external data and update the UI dynamically using R
   <img src="./images/preview1.png" width="48%"/>
   <img src="./images/preview1.1.png" width="48%"/>
 </p>
+
 ---
 
 ### 🚀 Next Project
@@ -81,6 +82,7 @@ These hooks help improve application efficiency by preventing unnecessary re-ren
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
