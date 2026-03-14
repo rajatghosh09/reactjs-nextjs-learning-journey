@@ -108,6 +108,7 @@ Appwrite is an open-source **backend-as-a-service (BaaS)** platform that provide
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
@@ -132,6 +133,7 @@ It shows how multiple components can share and update state without prop drillin
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
@@ -156,6 +158,7 @@ It stores data in the browser so the state remains available even after refreshi
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
@@ -180,6 +183,7 @@ It shows how components can access and update shared state through actions and r
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
@@ -203,6 +207,7 @@ This project demonstrates modern state management using **Redux Toolkit**, which
 
 ### Preview
 ![Project Preview](./preview.png)
+
 ---
 
 ### 🚀 Next Project
