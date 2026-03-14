@@ -28,8 +28,8 @@ It includes simple interactive utilities that demonstrate how state updates dyna
   <img src="./images/preview1.png" width="48%"/>
   <img src="./images/preview1.1.png" width="48%"/>
 </p>
-🚀 **Live Demo:**(https://assignment1-eosin-nu.vercel.app/)
-**Live Demo:** [Open App](https://blood-need-rajat.vercel.app)
+🚀 **Live Demo:** [Open App](https://assignment1-eosin-nu.vercel.app/)
+
 ---
 
 ### 🚀 Next Project
