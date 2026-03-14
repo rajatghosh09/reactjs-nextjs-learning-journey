@@ -41,7 +41,7 @@ It demonstrates how to fetch external data and update the UI dynamically using R
 - REST APIs
 
 ### Preview
-![Project Preview](./preview.png)
+![Project Preview](./images/preview1.png)
 
 ## React Hooks Performance Demo
 
