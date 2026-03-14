@@ -1,0 +1,87 @@
+/* .page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+} */
+
+/* ================= NAVBAR ================= */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 40px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* 3 Equal Sections */
+.left,
+.center,
+.right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.center {
+  justify-content: center;
+  gap: 30px;
+}
+
+.right {
+  justify-content: flex-end;
+}
+
+.navLink {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.navLink:hover {
+  color: gray;
+}
+
+/* Login Button */
+.loginBtn {
+  padding: 8px 20px;
+  border-radius: 20px;
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.loginBtn:hover {
+  opacity: 0.8;
+}
+
+
+/* Logout Button */
+.logoutBtn {
+  padding: 8px 20px;
+  border-radius: 20px;
+  border: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.logoutBtn:hover {
+  opacity: 0.8;
+}
+
+/* ================= HERO ================= */
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome {
+  font-size: 36px;
+  font-weight: 600;
+}
