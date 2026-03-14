@@ -43,7 +43,7 @@ It demonstrates how to fetch external data and update the UI dynamically using R
 ### Preview
 <p align="left">
   <img src="./images/preview1.png" width="400" height="250"/>
-  <img src="./images/preview1.1.png" width="400" height="250"/>
+  <img src="./images/preview1.1.png" width="400" height="450"/>
 </p>
 
 ## React Hooks Performance Demo
