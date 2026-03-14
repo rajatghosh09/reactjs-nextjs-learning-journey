@@ -83,9 +83,7 @@ These hooks help improve application efficiency by preventing unnecessary re-ren
 
 ### Preview
 <p align="left">
-  <img src="./images/preview2.png" width="48%"/>
-  <img src="./images/preview2.1.png" width="48%"/>
-  <img src="./images/preview2.2.png" width="48%"/>
+  <img src="./images/preview3.png" width="48%"/>
 </p>
 
 ---
@@ -112,7 +110,9 @@ Appwrite is an open-source **backend-as-a-service (BaaS)** platform that provide
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview3.2.png" width="48%"/>
+</p>
 
 ---
 
@@ -137,7 +137,9 @@ It shows how multiple components can share and update state without prop drillin
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview4.png" width="48%"/>
+</p>
 
 ---
 
@@ -157,12 +159,14 @@ It stores data in the browser so the state remains available even after refreshi
 
 ### Tech Stack
 - React.js
-- JavaScript
+- TypeScript
 - LocalStorage API
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview4.1.png" width="48%"/>
+</p>
 
 ---
 
@@ -183,11 +187,13 @@ It shows how components can access and update shared state through actions and r
 ### Tech Stack
 - React.js
 - Redux
-- JavaScript
+- TypeScript
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview5.png" width="48%"/>
+</p>
 
 ---
 
@@ -207,11 +213,13 @@ This project demonstrates modern state management using **Redux Toolkit**, which
 ### Tech Stack
 - React.js
 - Redux Toolkit
-- JavaScript
+- TypeScript
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview5.1..png" width="48%"/>
+</p>
 
 ---
 
@@ -236,4 +244,6 @@ It shows how frontend state management can work together with a backend service 
 - JavaScript
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview6.png" width="48%"/>
+</p>
