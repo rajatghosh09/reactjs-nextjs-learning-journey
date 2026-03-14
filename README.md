@@ -218,7 +218,7 @@ This project demonstrates modern state management using **Redux Toolkit**, which
 
 ### Preview
 <p align="left">
-  <img src="./images/preview5.1..png" width="48%"/>
+  <img src="./images/preview5.1.png" width="48%"/>
 </p>
 
 ---
