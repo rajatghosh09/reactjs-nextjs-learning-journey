@@ -54,8 +54,9 @@ It demonstrates how to fetch external data and update the UI dynamically using R
 
 ### Preview
 <p align="left">
-  <img src="./images/preview1.png" width="48%"/>
-  <img src="./images/preview1.1.png" width="48%"/>
+  <img src="./images/preview2.png" width="48%"/>
+  <img src="./images/preview2.1.png" width="48%"/>
+  <img src="./images/preview2.2.png" width="48%"/>
 </p>
 
 ---
@@ -81,7 +82,11 @@ These hooks help improve application efficiency by preventing unnecessary re-ren
 - CSS
 
 ### Preview
-![Project Preview](./preview.png)
+<p align="left">
+  <img src="./images/preview2.png" width="48%"/>
+  <img src="./images/preview2.1.png" width="48%"/>
+  <img src="./images/preview2.2.png" width="48%"/>
+</p>
 
 ---
 
