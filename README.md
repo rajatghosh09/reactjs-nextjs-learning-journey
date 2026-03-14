@@ -59,6 +59,7 @@ It demonstrates how to fetch external data and update the UI dynamically using R
   <img src="./images/preview2.2.png" width="48%"/>
 </p>
 
+🚀 **Live Demo:** [Open App](https://assignment1-eosin-nu.vercel.app/)
 ---
 
 ### 🚀 Next Project
