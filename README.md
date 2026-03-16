@@ -1,269 +1,85 @@
-# React.js & Next.js Learning Journey
+# 🚀 React.js & Next.js Learning Journey
 
-This repository contains a collection of projects built while learning **React.js, Next.js, and modern frontend development technologies**.
-Each project focuses on improving skills in **UI development, state management, backend integration, and responsive design**.
-
----
-
-# Projects
-
-## Productivity Utility Hub
-
-### Description
-
-Productivity Utility Hub is a small React application built to practice the **useState hook**.
-It includes simple interactive utilities that demonstrate how state updates dynamically in React.
-
-### Features
-
-* State management using **React useState**
-* Interactive UI components
-* Real-time updates based on user input
-
-### Tech Stack
-
-* React.js
-* TypeScript
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview1.png" width="48%">
-<img src="./images/preview1.1.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assignment1-eosin-nu.vercel.app/)
+Welcome to my development laboratory. This repository is a curated collection of projects and experiments documenting my progression from frontend fundamentals to advanced full-stack architecture. Each module focuses on a specific pillar of modern web development.
 
 ---
 
-## E-commerce Weather Joke State Logic
+### 🛠️ Professional Tech Stack
 
-### Description
-
-This React project is built to practice the **useEffect hook** and make **HTTP requests to APIs**.
-
-### Features
-
-* Fetch data from APIs using **useEffect**
-* Dynamic UI updates based on API responses
-* Practice handling asynchronous requests
-
-### Tech Stack
-
-* React.js
-* TypeScript
-* CSS
-* REST APIs
-
-### Preview
-
-<p align="left">
-<img src="./images/preview2.png" width="48%">
-<img src="./images/preview2.1.png" width="48%">
-<img src="./images/preview2.2.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assignment2-pi-snowy.vercel.app/)
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **State Management** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge) ![Context API](https://img.shields.io/badge/Context_API-blueviolet?style=for-the-badge) |
+| **Backend & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white) |
+| **UI & Styling** | ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
 
-## React Hooks Performance Demo
+## 📂 Project Portfolio
 
-### Description
+### 🟢 Next.js & Real-time Ecosystems
+**Project:** [Next.js Supabase Realtime App](https://assign6-supabase-zustand-sxej.vercel.app/)
+* **Focus:** Full-stack synchronization and lightweight state.
+* **Concepts:** Real-time DB listeners, Zustand store hydration, Server-Side Rendering (SSR).
+* **Tech:** Next.js, Zustand, Supabase.
 
-This project demonstrates the use of **useMemo, useCallback, and useRef** hooks in React to optimize component performance.
+### 🔵 Advanced State Management
+**Projects:** [Redux Toolkit Quiz](https://assign5-quizapp.vercel.app/) | [Notification System](https://assign5-notification-system.vercel.app/)
+* **Focus:** Predictable state containers and complex logic.
+* **Concepts:** Slices, Middleware, Action Dispatching, Global Error Handling.
+* **Tech:** Redux Toolkit, React, TypeScript.
 
-### Features
+### 🟠 Backend-as-a-Service (BaaS) Integration
+**Project:** [Appwrite Integration Demo](https://appwrite-assingment3.vercel.app/)
+* **Focus:** Abstracting the backend layer.
+* **Concepts:** User Authentication, Document Databases, File Storage.
+* **Tech:** React, Appwrite, TypeScript.
 
-* Performance optimization using **useMemo**
-* Memoized functions using **useCallback**
-* DOM references using **useRef**
+### 🟡 Performance & Optimization
+**Project:** [Hooks Performance Demo](https://exam-assesment3.vercel.app/)
+* **Focus:** Efficient rendering and memory management.
+* **Concepts:** Memoization (`useMemo`, `useCallback`), DOM access (`useRef`), preventing re-renders.
+* **Tech:** React Core, TypeScript.
 
-### Tech Stack
-
-* React.js
-* TypeScript
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview3.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://exam-assesment3.vercel.app/)
-
----
-
-## Appwrite Integration Demo
-
-### Description
-
-This project demonstrates how to integrate **Appwrite** with a React application for backend services.
-
-### Features
-
-* Backend integration using **Appwrite**
-* Authentication and database interaction
-* Frontend-backend communication
-
-### Tech Stack
-
-* React.js
-* Appwrite
-* TypeScript
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview3.2.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://appwrite-assingment3.vercel.app/)
+### 🔴 Core Fundamentals & Persistence
+**Projects:** [Global Shopping Cart](https://assign4-addtocart.vercel.app/) | [Multi-Step Form](https://assign4-multiform.vercel.app/)
+* **Focus:** Native state management and browser storage.
+* **Concepts:** `useReducer` + `useContext` patterns, LocalStorage sync.
+* **Tech:** Context API, React Hooks.
 
 ---
 
-## Global State Management with useReducer & useContext
+## 🖼️ Visual Previews
 
-### Description
-
-This React project demonstrates managing **global application state** using **useReducer and Context API**.
-
-### Features
-
-* Global state management using **useReducer**
-* Shared state using **React Context API**
-* Reducer-based updates
-
-### Tech Stack
-
-* React.js
-* TypeScript
-* Context API
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview4.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assign4-addtocart.vercel.app/)
+<table border="0">
+  <tr>
+    <td><img src="./images/preview6.png" width="100%" alt="Next.js Supabase"/></td>
+    <td><img src="./images/preview5.1.png" width="100%" alt="Redux Toolkit"/></td>
+  </tr>
+  <tr>
+    <td><img src="./images/preview3.2.png" width="100%" alt="Appwrite Demo"/></td>
+    <td><img src="./images/preview2.png" width="100%" alt="API Fetching"/></td>
+  </tr>
+</table>
 
 ---
 
-## Persistent State with LocalStorage
+## 📈 Roadmap & Milestones
 
-### Description
-
-This project demonstrates how to persist application state using **localStorage**.
-
-### Features
-
-* Store and retrieve data using **localStorage**
-* Persist data after refresh
-* Client-side storage example
-
-### Tech Stack
-
-* React.js
-* TypeScript
-* LocalStorage API
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview4.1.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assign4-multiform.vercel.app/)
+- [x] **Phase 1:** Core Fundamentals (State, Props, Lifecycle)
+- [x] **Phase 2:** Hooks Mastery (Asynchronous Side Effects & Performance)
+- [x] **Phase 3:** Industrial State Management (Redux, Zustand)
+- [x] **Phase 4:** Cloud Backend Integration (Supabase, Appwrite)
+- [x] **Phase 5:** Modern Frameworks (Next.js 15, App Router)
+- [ ] **Phase 6:** Automated Testing (Jest, React Testing Library) *Coming Soon*
 
 ---
 
-## Redux State Management
+## ⚙️ Installation
 
-### Description
+To run any of these projects locally:
 
-This project demonstrates managing **global application state using Redux**.
-
-### Features
-
-* Global state management using **Redux**
-* Dispatching actions
-* Shared application state
-
-### Tech Stack
-
-* React.js
-* Redux
-* TypeScript
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview5.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assign5-notification-system.vercel.app/)
-
----
-
-## Redux Toolkit Demo
-
-### Description
-
-This project demonstrates modern state management using **Redux Toolkit**.
-
-### Features
-
-* State management with **Redux Toolkit**
-* Reducers using **createSlice**
-* Store setup with **configureStore**
-
-### Tech Stack
-
-* React.js
-* Redux Toolkit
-* TypeScript
-* CSS
-
-### Preview
-
-<p align="left">
-<img src="./images/preview5.1.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assign5-quizapp.vercel.app/)
-
----
-
-## Next.js Supabase Realtime App
-
-### Description
-
-This project demonstrates building a **real-time application using Next.js, Zustand, and Supabase**.
-
-### Features
-
-* Real-time database updates
-* Global state management with **Zustand**
-* Supabase backend integration
-
-### Tech Stack
-
-* Next.js
-* Zustand
-* Supabase
-* JavaScript
-
-### Preview
-
-<p align="left">
-<img src="./images/preview6.png" width="48%">
-</p>
-
-🚀 **Live Demo:** [Open App](https://assign6-supabase-zustand-sxej.vercel.app/)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
