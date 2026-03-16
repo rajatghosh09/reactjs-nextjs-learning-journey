@@ -48,8 +48,8 @@ The goal of this repository is to **demonstrate progressive learning and practic
 <img src="./images/preview1.1.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assignment1-eosin-nu.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assignment1-eosin-nu.vercel.app/)
 
 ---
 
@@ -80,8 +80,8 @@ This project focuses on learning the **useEffect hook** and making **API request
 <img src="./images/preview2.2.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assignment2-pi-snowy.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assignment2-pi-snowy.vercel.app/)
 
 ---
 
@@ -109,8 +109,8 @@ This project demonstrates **React performance optimization techniques** using me
 <img src="./images/preview3.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://exam-assesment3.vercel.app/
+🔗 **Open App:**  
+[Open App](https://exam-assesment3.vercel.app/)
 
 ---
 
@@ -139,8 +139,8 @@ This project demonstrates how to integrate **Appwrite backend services** into a 
 <img src="./images/preview3.2.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://appwrite-assingment3.vercel.app/
+🔗 **Open App:**  
+[Open App](https://appwrite-assingment3.vercel.app/)
 
 ---
 
@@ -169,8 +169,8 @@ This project demonstrates **global state management using React Context API and 
 <img src="./images/preview4.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assign4-addtocart.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assign4-addtocart.vercel.app/)
 
 ---
 
@@ -199,8 +199,8 @@ This project demonstrates how to **persist application data using localStorage**
 <img src="./images/preview4.1.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assign4-multiform.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assign4-multiform.vercel.app/)
 
 ---
 
@@ -229,8 +229,8 @@ This project demonstrates **global state management using Redux**.
 <img src="./images/preview5.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assign5-notification-system.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assign5-notification-system.vercel.app/)
 
 ---
 
@@ -259,8 +259,8 @@ This project demonstrates modern Redux state management using **Redux Toolkit**.
 <img src="./images/preview5.1.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assign5-quizapp.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assign5-quizapp.vercel.app/)
 
 ---
 
@@ -289,8 +289,8 @@ This project demonstrates building a **real-time application using Next.js, Zust
 <img src="./images/preview6.png" width="48%">
 </p>
 
-🚀 **Live Demo:**  
-https://assign6-supabase-zustand-sxej.vercel.app/
+🔗 **Open App:**  
+[Open App](https://assign6-supabase-zustand-sxej.vercel.app/)
 
 ---
 
